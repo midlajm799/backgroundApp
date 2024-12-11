@@ -1,0 +1,22 @@
+.btn{
+  margin-left: 20px;
+  /* background-color:white; */
+  color: white;
+  font-weight: 700;
+}
+
+#green{
+  background-color: green;
+}
+
+#blue{
+  background-color: blue;
+}
+
+#yellow{
+  background-color: yellow;
+}
+
+#red{
+  background-color: red;
+}
